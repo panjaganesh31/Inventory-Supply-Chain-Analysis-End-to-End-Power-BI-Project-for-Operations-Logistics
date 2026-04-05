@@ -15,17 +15,6 @@ In this project, you’ll learn how to:
 - 🗺️ **Real-World Storytelling Techniques**: Present supply chain data effectively for business stakeholders.
 
 
----
-
-## 🛠 Getting Started
-
-To work on this project:
-1. **Clone or fork** this repository.
-2. Open the `.pbix` file with **Power BI Desktop**.
-3. Download the provided datasets or connect your own inventory and supply chain data.
-4. Follow the tutorial to build your dashboard step-by-step.
----
-
 ## 🎯 Who Should Use This Project?
 
 - 📊 **Power BI Users** & **Business Intelligence Professionals**
