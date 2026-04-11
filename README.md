@@ -1,23 +1,113 @@
-# 📦 Power BI Project: Inventory & Supply Chain Analysis | End-to-End Dashboard
+# 📦 Inventory & Supply Chain Analysis (Power BI Project)
 
-Managing inventory and ensuring an efficient supply chain are critical for business success. In this Power BI project, we dive deep into stock management, demand forecasting, supplier performance, and logistics optimization — building a fully interactive dashboard that mirrors real-world operations.
+## 📌 Overview
+
+This project focuses on analyzing inventory and supply chain operations using Power BI. The dashboard provides insights into stock levels, warehouse utilization, transportation costs, lead times, and order fulfillment performance.
+
+The goal is to help businesses make data-driven decisions to optimize inventory, reduce costs, and improve supply chain efficiency.
 
 ---
 
-## 🚀 Project Highlights
+## 🚀 Key Features
 
-In this project, you’ll learn how to:
-- 🧹 **Data Cleaning & Transformation**: Use Power Query to clean and model supply chain datasets.
-- 📦 **Inventory Metrics**: Track stock levels, turnover rates, reorder points, and backorders.
-- 🚚 **Supply Chain KPIs**: Analyze lead times, delivery performance, and supplier reliability.
-- 🔢 **Advanced DAX Calculations**: Build actionable insights for procurement and operations.
-- 📊 **Professional Dashboard Design**: Create an executive-level dashboard with interactive visuals.
-- 🗺️ **Real-World Storytelling Techniques**: Present supply chain data effectively for business stakeholders.
+### 🧹 Data Cleaning & Transformation
 
+* Cleaned and transformed raw supply chain data using Power Query
+* Handled missing values and ensured data consistency
+* Built a structured data model for analysis
 
-## 🎯 Who Should Use This Project?
+### 📦 Inventory Analysis
 
-- 📊 **Power BI Users** & **Business Intelligence Professionals**
-- 🏭 **Supply Chain Managers** & **Inventory Analysts**
-- ⚙️ **Operations Managers** optimizing logistics performance
-- 🎓 **Students & Job Seekers** building a strong Power BI portfolio
+* Warehouse Utilization tracking
+* Inventory Turnover Ratio calculation
+* Days Sales of Inventory (DSI)
+* Inventory levels across regions and categories
+
+### 🚚 Supply Chain KPIs
+
+* Transportation cost analysis by region and category
+* Lead time analysis for different product categories
+* Backorder tracking by order status (Fulfilled, Pending, Canceled)
+
+### 🔢 Advanced DAX Calculations
+
+* Created calculated measures for:
+
+  * Inventory KPIs
+  * Sales trends
+  * Performance metrics
+* Enabled dynamic filtering and interactivity
+
+### 📊 Dashboard Insights
+
+* Units sold trends over time
+* Regional performance comparison
+* Category-wise inventory distribution
+* Operational efficiency indicators
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](./assets/dashboard.png)
+
+---
+
+## 🛠 Tools & Technologies
+
+* Power BI Desktop
+* Power Query
+* DAX (Data Analysis Expressions)
+* Excel / CSV datasets
+
+---
+
+## 📂 Project Structure
+
+```
+📁 Inventory-Supply-Chain-Analysis
+ ┣ 📄 Inventory_Supply_Chain.pbix
+ ┣ 📁 data
+ ┃ ┗ 📄 dataset files
+ ┣ 📁 assets
+ ┃ ┗ 📄 dashboard.png
+ ┗ 📄 README.md
+```
+
+---
+
+## ⚙️ How to Use
+
+1. Download or clone this repository
+2. Open the `.pbix` file using Power BI Desktop
+3. Load or refresh the dataset
+4. Explore the dashboard using filters (Region, Category)
+
+---
+
+## 🎯 Use Cases
+
+* Inventory optimization
+* Supply chain performance monitoring
+* Business intelligence reporting
+* Operations decision-making
+
+---
+
+## 🙋‍♂️ About This Project
+
+This project was created as part of learning Power BI and supply chain analytics concepts. It is inspired by publicly available tutorials and datasets, and rebuilt to practice real-world dashboard development.
+
+---
+
+## ⭐ If You Like This Project
+
+Give it a star ⭐ on GitHub and feel free to connect!
+
+---
+
+## 📬 Contact
+
+* Name: Ganesh Panja
+* Email: [panjaganesh31@gmail.com](mailto:panjaganesh31@gmail.com)
+* Location: Missouri, USA
