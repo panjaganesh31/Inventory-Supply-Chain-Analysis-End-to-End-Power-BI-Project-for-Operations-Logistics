@@ -49,7 +49,8 @@ The goal is to help businesses make data-driven decisions to optimize inventory,
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
+<img width="958" height="472" alt="Screenshot 2026-04-11 181503" src="https://github.com/user-attachments/assets/a4999d83-0e6a-4c3e-86ec-0f31f819e13a" />
+
 
 ---
 
